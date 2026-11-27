@@ -52,7 +52,7 @@ data class Developer(
 
 <img src="https://streak-stats.demolab.com?user=bogusklosek&hide_border=true&background=0d1117&stroke=30363d&ring=7F52FF&fire=F89820&currStreakLabel=F89820&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bogusklosek&bg_color=0d1117&color=F89820&line=7F52FF&point=F89820&area=true&area_color=7F52FF&hide_border=true&custom_title=Contribution%20Activity&radius=12" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bogusklosek&theme=github_dark" />
 
 </div>
 
